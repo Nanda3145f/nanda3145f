@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=nanda3145f&label=Profile%20Views&color=0e75b6&style=flat)
@@ -91,7 +90,6 @@ I enjoy solving problems, learning new technologies, and developing clean and ef
 
 ### 💬 Let's Connect and Build Something Amazing Together!
 
-⭐ *“Every expert was once a beginner.”*
+⭐ *"Every expert was once a beginner."*
 
 </div>
-````
