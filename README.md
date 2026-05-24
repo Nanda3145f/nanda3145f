@@ -4,8 +4,6 @@
 
 # Hey there, I'm Nanda Kishore Reddy! 👋
 
-![wave](https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif)
-
 ## Computer Science Engineering Student | Cloud Infrastructure & Services Enthusiast
 
 ```
