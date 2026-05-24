@@ -6,11 +6,7 @@
 
 ![wave](https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif)
 
-### ✨ Computer Science Engineering Student | Cloud Infrastructure & Services Enthusiast | Content Creator
-
-```
-🚀 Fresher passionate about building scalable cloud solutions and sharing knowledge with the community
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Cloud+Infrastructure+%26+Services+Enthusiast;Full+Stack+Developer+in+Progress;Passionate+about+scalable+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,13 +14,13 @@
 
 ## 🎯 About Me
 
-I'm a Computer Science Engineering student with a passion for **cloud infrastructure**, **full-stack development**, and **emerging technologies**. I love exploring the intersection of software engineering and cloud services while creating educational content for the developer community.
+I'm a Computer Science Engineering student with a passion for **cloud infrastructure**, **full-stack development**, and **modern technologies**. As a fresher, I'm eager to build scalable solutions and contribute to innovative projects while continuously learning and growing in the tech industry.
 
-- 🎬 **Content Creator**: Building educational content on [YouTube](https://youtube.com/@nandakishore) and [Medium](https://medium.com/@nandakishorreddy28955)
-- 🔧 **Tech Enthusiast**: Always exploring new technologies and best practices
-- 💡 **Problem Solver**: Passionate about writing clean, efficient code
-- 🌱 **Lifelong Learner**: Constantly upskilling in cloud technologies and web development
-- 🎥 **Aspiring YouTuber**: Sharing knowledge and helping developers grow
+- 🚀 **Problem Solver**: Passionate about writing clean, efficient, and maintainable code
+- ☁️ **Cloud Enthusiast**: Exploring cloud infrastructure and services
+- 💡 **Tech Lover**: Always curious about new technologies and best practices
+- 🌱 **Lifelong Learner**: Continuously upskilling and staying updated with industry trends
+- 🎯 **Goal-Oriented**: Committed to delivering high-quality solutions
 
 ---
 
@@ -59,10 +55,7 @@ I'm a Computer Science Engineering student with a passion for **cloud infrastruc
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nandakishore)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nandakishorreddy28955)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nandakishore_reddy_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nanda-kishore-reddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanda-kishore-reddy-146919289/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://nanda3145f.github.io)
 
 </div>
@@ -99,11 +92,10 @@ I'm always open to:
 - 💼 Collaboration on exciting projects
 - 🤝 Networking with fellow developers and tech enthusiasts
 - 💡 Discussing cloud infrastructure and modern web technologies
-- 📚 Sharing knowledge through content and mentoring
+- 📚 Sharing knowledge and learning together
 
 ### 📬 Reach Out
-- **Email**: Available on my [LinkedIn](https://linkedin.com/in/nanda-kishore-reddy)
-- **LinkedIn**: [nanda-kishore-reddy](https://linkedin.com/in/nanda-kishore-reddy)
+- **LinkedIn**: [nanda-kishore-reddy-146919289](https://www.linkedin.com/in/nanda-kishore-reddy-146919289/)
 - **Portfolio**: [nanda3145f.github.io](https://nanda3145f.github.io)
 
 ---
@@ -112,6 +104,6 @@ I'm always open to:
 
 ### ⭐ If you find my projects helpful, please consider giving them a star! ⭐
 
-**"Code is poetry written for machines, but read by humans."** 💻✨
+**"Every expert was once a beginner."** 💻✨
 
 </div>
