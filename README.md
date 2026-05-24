@@ -6,7 +6,11 @@
 
 ![wave](https://media.giphy.com/media/hvRJCLFzcasrng1FLj/giphy.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Cloud+Infrastructure+%26+Services+Enthusiast;Full+Stack+Developer+in+Progress;Passionate+about+scalable+solutions)](https://git.io/typing-svg)
+## Computer Science Engineering Student | Cloud Infrastructure & Services Enthusiast
+
+```
+🚀 Full Stack Developer in Progress | Passionate about Scalable Solutions
+```
 
 </div>
 
